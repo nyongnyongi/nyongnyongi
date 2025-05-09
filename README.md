@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyongnyongi&layout=compact&theme=default)
+
+![C](https://img.shields.io/badge/Dart-50%25-teal)
+![C++](https://img.shields.io/badge/Java-16%25-orange)
+![Python](https://img.shields.io/badge/TypeScript-14%25-blue)
